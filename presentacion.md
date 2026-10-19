@@ -1,3 +1,3 @@
 # jaime andres ladino montealegre
 # ficha 3407799
-commit aprendi un poco a como manejar git y github
+* **Aprendizaje:** El uso de ramas y Pull Requests permite organizar el código, evitando errores en la rama principal.
